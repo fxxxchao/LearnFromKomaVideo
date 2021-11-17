@@ -1,3 +1,3 @@
-# LearnSwiftUI
+# LearnSwiftUIWithKomaVideo
 
-From:https://github.com/komavideo/LearnSwiftUI
+https://github.com/komavideo/LearnSwiftUI
